@@ -6,6 +6,7 @@
 //on branch feature3, adding f3
 
 //on master branch, did some more work
+//on master branch, did some more work.  do commit, but notice mistake after.
 
 
 function factorial(num) {
