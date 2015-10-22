@@ -1,4 +1,6 @@
 //new file
+//added comment A
+//added comment B
 
 // checking out old version, adding comment C
 
