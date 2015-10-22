@@ -3,6 +3,7 @@
 //add comment B
 //on branch feature1
 //on branch feature2, adding f2
+//on branch feature3, adding f3
 
 
 function factorial(num) {
