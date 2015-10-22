@@ -1,6 +1,6 @@
 //new file
 //added comment A
-
+//add comment B
 
 
 function factorial(num) {
