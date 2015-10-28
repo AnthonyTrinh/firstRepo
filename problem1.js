@@ -12,6 +12,8 @@
 //just checked out newBranch.  doing some work on it.  will save and commit, and push.
 //still on newBranch file.  doing work #2 on it.  save and commit, and push. 
 
+//newBranch and master merged.  now doing work #3 on newBranch. save, commit, and push.
+
 function factorial(num) {
 	if (num === 1) {return 1}
 	return num*factorial(num-1)
