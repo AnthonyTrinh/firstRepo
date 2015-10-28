@@ -7,6 +7,7 @@
 
 //now on goback5 branch. doing some work.
 //now on branch6, doing some feature6.
+//doing some work on branch7 now, to make a pull request.
 
 //just checked out newBranch.  doing some work on it.  will save and commit, and push.
 //still on newBranch file.  doing work #2 on it.  save and commit, and push. 
