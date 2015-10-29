@@ -14,6 +14,8 @@
 
 //newBranch and master merged.  now doing work #3 on newBranch. save, commit, and push.
 
+//fixing bug on branch fixBug
+
 function factorial(num) {
 	if (num === 1) {return 1}
 	return num*factorial(num-1)
