@@ -18,6 +18,8 @@
 
 //just rebased fixBug with master.  Doing more work on fixBug work.
 
+//doing Thurs work.
+
 function factorial(num) {
 	if (num === 1) {return 1}
 	return num*factorial(num-1)
