@@ -16,6 +16,8 @@
 
 //fixing bug on branch fixBug
 
+//just rebased fixBug with master.  Doing more work on fixBug work.
+
 function factorial(num) {
 	if (num === 1) {return 1}
 	return num*factorial(num-1)
