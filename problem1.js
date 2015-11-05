@@ -24,6 +24,8 @@
 
 // still on featureThurs doing work4.
 
+//work #5 on weds.
+
 function factorial(num) {
 	if (num === 1) {return 1}
 	return num*factorial(num-1)
