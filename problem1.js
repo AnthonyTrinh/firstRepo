@@ -30,4 +30,5 @@ function factorial(num) {
 
 // still on featureThurs doing work4.
 
-// doing work #1 on satBranch 8:58 and practicing symbols ()()()()()()()()()()(())()()()$$$$$$$ $ $$ $ $ $ ::::' ' ''
+// doing work #1 on satBranch 8:58 and practicing symbols ()()()()()()()()()()(())()()()$$$$$$$ $ $$ $ $ $ ::::' ' '
+// doing work #2 on satBranch to set up conflict.
