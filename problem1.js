@@ -1,3 +1,9 @@
+function factorial(num) {
+	if (num === 1) {return 1}
+	return num*factorial(num-1)
+}
+
+
 //new file
 //added comment A
 //add comment B
@@ -23,8 +29,3 @@
 //still on featureThurs doing work3.
 
 // still on featureThurs doing work4.
-
-function factorial(num) {
-	if (num === 1) {return 1}
-	return num*factorial(num-1)
-}
